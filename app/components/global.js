@@ -18,7 +18,7 @@ class Global extends Component{
     fetch(`${baseURL}${this.state.query}`, {method: 'GET'})
       .then(response => response.json())
       .then(jsonData => {
-        console.log(jsonData);
+        //console.log(jsonData);
         let { items } = jsonData;
         this.setState({items});
       });
