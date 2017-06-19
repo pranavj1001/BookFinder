@@ -5,7 +5,7 @@ an ES6 and react application
 
 Hey there,
  
- This repo contains a web application which helps the user find the book that he/she wants. It uses Google Book API to get info about the books. Also, I've used React and ES6 for development.
+ This repo contains a web application that helps the user find the book that he/she wants. It uses Google Book API to get info about the books. Also, I've used React and ES6 for development.
 
 ### Working..
 
