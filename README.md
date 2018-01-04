@@ -7,11 +7,11 @@ Hey there,
  
  This repo contains a web application that helps the user find the book that he/she wants. It uses Google Book API to get info about the books. Also, I've used React and ES6 for development.
 
-### Working..
+## Working..
 
 The user enters text in the search field of the application and then the application shows a list of 10 books that is relevant to the entered search text.
 
-### To get started
+## To get started
 
 1. Setup this repo on your machine.
 
@@ -26,7 +26,15 @@ The user enters text in the search field of the application and then the applica
 6. open browser and go to http://localhost:3000/ to view the project.
 
 
-### ScreenShot
+## ScreenShot
 
 ![Alt text](Screenshot.png?raw=true "Home Page")
 
+
+## Queries
+
+email me at pranavj1001@gmail.com
+
+## License
+
+MIT License
